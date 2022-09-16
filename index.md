@@ -1,1 +1,3 @@
-# The Bedroom
+[PROXIES](/proxies.md)
+
+
