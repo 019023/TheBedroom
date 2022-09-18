@@ -1,2 +1,2 @@
 var x = document.createElement("INPUT");
-x.setAttribute("type", "Password");
+x.setAttribute("type", "text");
