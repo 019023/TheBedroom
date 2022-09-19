@@ -1,4 +1,4 @@
-let Usersguess = window.prompt("whats the password");
+let usersguess = window.prompt("whats the password");
 console.log(usersguess);
 let password = "this is a password";
 if (password === usersguess) {
